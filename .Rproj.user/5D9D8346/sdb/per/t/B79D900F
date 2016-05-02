@@ -1,0 +1,17 @@
+{
+    "contents" : "title: \"Practical Machine Learning Project - Quality of Weight Lifting Exercise\"\nauthor: \"Milind Kulkarni\"\ndate: \"Sunday, May 01, 2016\"\noutput: html_document\n\n### BACKGROUND\nUsing devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways. More information is available from the website here: http://groupware.les.inf.puc-rio.br/har (see the section on the Weight Lifting Exercise Dataset).\n\n### What's Included\n\n* content.rmd = R Markdown file explaining the project work\n* content.html = Required output of the project\n* content.R = Original R code for the project\n* content_files = Folder containing supplemental project output (graphs, etc)\n* .csv files = Source data and data processing files\n* content.md = Introduction\n\nPlease refer to content.rmd for the project flow.",
+    "created" : 1462153862791.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2048336590",
+    "id" : "B79D900F",
+    "lastKnownWriteTime" : 1462153888,
+    "path" : "C:/Users/Milind/PracticalMachineLearning/content.md",
+    "project_path" : "content.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
